@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Stefanie Logan\eclipse-workspace\Week04 Coding Project\.metadata\.plugins\org.eclipse.jdt.core
+3582050381.index
+3413725848.index
+1865797976.index
